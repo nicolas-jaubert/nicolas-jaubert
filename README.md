@@ -1,5 +1,7 @@
-### Hello, I'm Nicolas 👋
-
+Hello, I'm Nicolas 👋
+=
+College student
+-
 
 
 - 🔭 I’m currently working on a C++ project which consist of recreating PacMan in a terminal
